@@ -25,9 +25,9 @@ int main()
   std::cout << "ans = " << ans << std::endl; // So which point is farther?
 
   if (ans == &pointP1){
-    std::cout << "\nPoint P is Father" << std::endl;
+    std::cout << "\nPoint P is Farther" << std::endl;
   }else{
-    std::cout << "\nPoint Q is Father" << std::endl;
+    std::cout << "\nPoint Q is Farther" << std::endl;
   }
 
   //Task C
